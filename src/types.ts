@@ -1,5 +1,5 @@
 export interface KnownThing {
-  id: number;
+  idThing: number;
   thing: string;
 }
 
